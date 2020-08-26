@@ -1,0 +1,9 @@
+{
+    "defaults": {
+        "dict": "tureng",
+        "target_lang": "es"
+    },
+    "pytesseract": {
+        "path": "C:\\Program Files (x86)\\Tesseract-OCR\\tesseract"
+    }
+}

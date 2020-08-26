@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+requests-random-user-agent = "*"
+beautifulsoup4 = "*"
+html5lib = "*"
+lxml = "*"
+pyperclip = "*"
+rich = "*"
+pytesseract = "*"
+prompt-toolkit = "*"
+
+[requires]
+python_version = "3.8"

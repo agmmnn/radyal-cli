@@ -1,0 +1,11 @@
+requests
+requests_random_user_agent
+
+beautifulsoup4
+html5lib
+lxml
+
+pyperclip
+rich
+pytesseract
+prompt_toolkit

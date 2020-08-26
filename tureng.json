@@ -1,0 +1,167 @@
+{
+    "ExceptionMessage": null,
+    "IsSuccessful": true,
+    "MobileResult": {
+        "IsFound": 1,
+        "IsTRToEN": 0,
+        "Results": [
+            {
+                "CategoryEN": "Common Usage (tr->en)",
+                "CategoryTR": "Yayg\u0131n Kullan\u0131m (tr->en)",
+                "Term": "storm",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "hurricane",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "gale",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "weather",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "squall",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "gust",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "snorter",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "tempest",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "windstorm",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "General (tr->en)",
+                "CategoryTR": "Genel (tr->en)",
+                "Term": "storm",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "Colloquial (tr->en)",
+                "CategoryTR": "Konu\u015fma Dili (tr->en)",
+                "Term": "thunder-boomer",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "Technical (tr->en)",
+                "CategoryTR": "Teknik (tr->en)",
+                "Term": "thundersquall",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Technical (tr->en)",
+                "CategoryTR": "Teknik (tr->en)",
+                "Term": "storm",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Technical (tr->en)",
+                "CategoryTR": "Teknik (tr->en)",
+                "Term": "turbulent",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Technical (tr->en)",
+                "CategoryTR": "Teknik (tr->en)",
+                "Term": "thunderstorm",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Technical (tr->en)",
+                "CategoryTR": "Teknik (tr->en)",
+                "Term": "thunder squall",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Marine (tr->en)",
+                "CategoryTR": "Denizcilik (tr->en)",
+                "Term": "strong gale",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Botanic (tr->en)",
+                "CategoryTR": "Botanik (tr->en)",
+                "Term": "gale",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Geography (tr->en)",
+                "CategoryTR": "Co\u011frafya (tr->en)",
+                "Term": "storm",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Meteorology (tr->en)",
+                "CategoryTR": "Meteoroloji (tr->en)",
+                "Term": "thud [scottish]",
+                "TypeEN": "n.",
+                "TypeTR": "i."
+            },
+            {
+                "CategoryEN": "Meteorology (tr->en)",
+                "CategoryTR": "Meteoroloji (tr->en)",
+                "Term": "storm",
+                "TypeEN": null,
+                "TypeTR": null
+            },
+            {
+                "CategoryEN": "Meteorology (tr->en)",
+                "CategoryTR": "Meteoroloji (tr->en)",
+                "Term": "gale",
+                "TypeEN": null,
+                "TypeTR": null
+            }
+        ],
+        "Suggestions": [],
+        "Term": "f\u0131rt\u0131na",
+        "VoiceURLs": []
+    }
+}

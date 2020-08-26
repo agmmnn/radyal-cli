@@ -1,0 +1,82 @@
+{
+    "cambridge": {
+        "dictkeys": ["cambridge"]
+    },
+    "collins": {
+        "description": "english dictionary.",
+        "url": "collinsdictionary.com",
+        "langueages": "en, fr, ",
+        "dictkeys": ["collins"]
+    },
+    "dictionary": {
+        "description": "english dictionary.",
+        "url": "dictionary.com",
+        "dictkeys": ["dictionary", "dict"]
+    },
+    "eksi": {
+        "description": "turkish collaborative hypertext dictionary.",
+        "url": "eksisozluk.com",
+        "commands": { "page": " -int" },
+        "dictkeys": ["eksi", "ekşi", "eksisozluk"]
+    },
+    "esanlam": {
+        "dictkeys": ["esanlam"]
+    },
+    "fandom": {
+        "dictkeys": ["fandom"]
+    },
+    "googledic": {
+        "dictkeys": ["googledic"]
+    },
+    "googletrans": {
+        "dictkeys": ["googletrans"]
+    },
+    "lexico": {
+        "dictkeys": ["lexico"]
+    },
+    "lugatim": {
+        "dictkeys": ["lugatim"]
+    },
+    "luggat": {
+        "dictkeys": ["luggat"]
+    },
+    "merriam": {
+        "dictkeys": ["merriam"]
+    },
+    "nisanyan": {
+        "dictkeys": ["nisanyan"]
+    },
+    "rand": {
+        "dictkeys": ["rand"]
+    },
+    "spanishdict": {
+        "dictkeys": ["spanishdict", "sd"]
+    },
+    "tdk": {
+        "dictkeys": ["tdk"]
+    },
+    "thesaurus": {
+        "dictkeys": ["thesaurus", "thes"]
+    },
+    "tureng": {
+        "dictkeys": ["tureng"]
+    },
+    "turengweb": {
+        "dictkeys": ["turengweb"]
+    },
+    "urban": {
+        "dictkeys": ["urban"]
+    },
+    "wikipedia": {
+        "dictkeys": ["wikipedia"]
+    },
+    "wiktionary": {
+        "dictkeys": ["wiktionary"]
+    },
+    "yandex": {
+        "dictkeys": ["yandex"]
+    },
+    "zitanlam": {
+        "dictkeys": ["zitanlam"]
+    }
+}

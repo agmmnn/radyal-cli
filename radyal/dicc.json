@@ -1,0 +1,173 @@
+{
+    "eksi": {
+        "dictkeys": ["eksi", "ekşi", "eksisozluk"],
+        "url": "eksisozluk.com",
+        "description": "Turkish collaborative hypertext dictionary.",
+        "supported langs": "tr",
+        "+commands": "-(page), debe, gündem"
+    },
+    "turengweb": {
+        "dictkeys": ["turengweb", "turweb"],
+        "url": "tureng.com",
+        "description": "Multilang online translator.",
+        "supported langs": "en-tr, en-fr, en-es, en-de",
+        "+commands": "-(lng)"
+    },
+    "tureng": {
+        "dictkeys": ["tur", "tureng"],
+        "url": "tureng.com",
+        "description": "multilang online translator.",
+        "supported langs": "en-tr, en-fr, en-es, en-de",
+        "+commands": "-(lng)"
+    },
+    "lexico": {
+        "dictkeys": ["lexico", "oxford"],
+        "url": "lexico.com",
+        "description": "Lexico is dictionary, thesaurus, and translator.",
+        "supported langs": "en",
+        "+commands": "-(lng)"
+    },
+    "tdk": {
+        "dictkeys": ["tdk", "sözlük"],
+        "url": "sozluk.gov.tr",
+        "description": "Turkish Language Institution Dictionary.",
+        "supported langs": "tr",
+        "+commands": "-atasozu, -derleme"
+    },
+    "urban": {
+        "dictkeys": ["urban", "urbandict"],
+        "url": "urbandictionary.com",
+        "description": "Crowdsourced slang dictionary.",
+        "supported langs": "en",
+        "+commands": ""
+    },
+    "etymonline": {
+        "dictkeys": ["etym"],
+        "url": "etymonline.com",
+        "description": "English Etymology Dictionary.",
+        "supported langs": "en",
+        "+commands": ""
+    },
+    "thesaurus": {
+        "dictkeys": ["thesaurus", "syn"],
+        "url": "thesaurus.com",
+        "description": "English thesaurus, synonyms and antonyms.",
+        "supported langs": "en",
+        "+commands": ""
+    },
+    "rand": {
+        "dictkeys": ["rand", "random"],
+        "url": "bestrandoms.com",
+        "description": "Random things generator.",
+        "supported langs": "en",
+        "+commands": "-(quantity)"
+    },
+    "esanlam": {
+        "dictkeys": ["esanlam", "eşanlam", "eş"],
+        "url": "bestrandoms.com",
+        "description": "Turkish thesaurus, synonyms and antonyms.",
+        "supported langs": "en",
+        "+commands": "-(quantity)"
+    },
+    "fandom": {
+        "dictkeys": ["fan", "fandom"],
+        "url": "fandom.com",
+        "description": "Fandom.",
+        "supported langs": "en",
+        "+commands": "*(wiki)"
+    },
+    "luggat": {
+        "dictkeys": ["luggat"],
+        "url": "luggat.com",
+        "description": "Ottoman-Turkish Dictionary.",
+        "supported langs": "tr",
+        "+commands": "2"
+    },
+    "lugatim": {
+        "dictkeys": ["lugatim", "kubbealti"],
+        "url": "lugatim.com",
+        "description": "Ottoman-Turkish Dictionary.",
+        "supported langs": "tr",
+        "+commands": ""
+    },
+    "nisanyan": {
+        "dictkeys": ["nisanyan", "nişanyan", "niş"],
+        "url": "nisanyansozluk.com",
+        "description": "Turkish Etymology Dictionary.",
+        "supported langs": "tr",
+        "+commands": ""
+    },
+    "translation": {
+        "dictkeys": [
+            "google",
+            "yandex",
+            "bing",
+            "baidu",
+            "alibaba",
+            "tencent",
+            "youdao",
+            "sogou",
+            "deepl"
+        ],
+        "url": "many",
+        "description": "Online Translation.",
+        "supported langs": "many",
+        "+commands": ""
+    },
+    "googledic": {
+        "dictkeys": ["googledic", "gdic"],
+        "url": "-",
+        "description": "googledic.",
+        "supported langs": "many",
+        "+commands": "-(lng)"
+    },
+    "wikipedia": {
+        "dictkeys": ["wikipedia", "wiki"],
+        "url": "wikipedia.com",
+        "description": "Wikipedia.",
+        "supported langs": "many",
+        "+commands": "-(lng)"
+    },
+    "difference": {
+        "dictkeys": ["difference", "diff"],
+        "url": "diffsense.com",
+        "description": "Compare and contrast word meanings.",
+        "supported langs": "en",
+        "+commands": "word1,word2"
+    },
+    "collins": {
+        "dictkeys": ["collins"],
+        "url": "diffsense.com",
+        "description": "Compare and contrast word meanings.",
+        "supported langs": "en",
+        "+commands": ""
+    },
+    "cambridge": {
+        "dictkeys": ["cambridge"],
+        "url": "diffsense.com",
+        "description": "Compare and contrast word meanings.",
+        "supported langs": "en, en-es, en-fr",
+        "+commands": ""
+    },
+    "spanishdict": {
+        "dictkeys": ["spanishdict", "sd"],
+        "url": "spanishdict.com",
+        "description": "Compare and contrast word meanings.",
+        "supported langs": "en",
+        "+commands": ""
+    },
+    "ancient": {
+        "dictkeys": ["ancient"],
+        "url": "ancient.eu",
+        "description": "Ancient History Encyclopedia.",
+        "supported langs": "en",
+        "+commands": ""
+    },
+    "dildernegi": {
+        "dictkeys": ["dildernegi", "dd"],
+        "url": "dildernegi.org.tr",
+        "description": "",
+        "supported langs": "tr",
+        "+commands": ""
+    }
+}
